@@ -9,5 +9,5 @@ chromadb==0.4.22
 sentence_transformers==2.3.1
 tiktoken==0.5.2
 GitPython==3.1.41
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 text-generation==0.6.1
